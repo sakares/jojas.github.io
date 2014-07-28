@@ -1,5 +1,4 @@
-180 websites in 180 days
+jojas.github.io
 ===============
 
-Thank you to http://jenniferdewalt.com/
 Personal self practice for web front-end skills
